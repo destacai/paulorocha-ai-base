@@ -1,0 +1,19 @@
+# OpenClaw internals
+.openclaw/
+
+# Sensitive keys and tokens
+*.key
+*.pem
+*-key.pem
+auth-profiles.json
+auth-state.json
+.env
+credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.log
